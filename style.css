@@ -1,0 +1,10 @@
+.categories-items img{
+            height: 100px;
+
+}
+.categories-box{
+    border-radius: 10px;
+}
+section, footer{
+    padding-top: 50px;
+}
